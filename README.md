@@ -14,8 +14,11 @@ This scraper is done with python 3.6.x.
 Do on a terminal prompt:
 
 $ python3 -m pip install -r requirements.txt
+
 $ scrapy runspider characters_scraper.py -o characters.json
+
 $ scrapy runspider quotes_scraper.py -o quotes.json
+
 $ ./san_antonio.py
 
 ## License

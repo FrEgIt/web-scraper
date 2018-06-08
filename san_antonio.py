@@ -1,4 +1,9 @@
+#! /usr/bin/env python3
 # -*- coding: utf8 -*-
+
+## https://stackoverflow.com/questions/7670303/purpose-of-usr-bin-python3
+
+
 import json
 import random
 
