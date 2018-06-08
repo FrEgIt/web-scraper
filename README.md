@@ -13,13 +13,23 @@ This scraper is done with python 3.6.x.
 
 Do on a terminal prompt:
 
+```shell
 $ python3 -m pip install -r requirements.txt
+```
 
+```shell
 $ scrapy runspider characters_scraper.py -o characters.json
+```
 
+```shell
 $ scrapy runspider quotes_scraper.py -o quotes.json
+```
 
+```shell
 $ ./san_antonio.py
+```
+
+
 
 ## License
 
